@@ -1,2 +1,11 @@
-# ds-gringotts
-A funky name for a funky project - check the wide variety of compiled python utility function's documentations.
+<div align = "center">
+
+# DS Documentation Vault
+
+[![Zenith Clown](https://img.shields.io/badge/🧠-Debmalya_Pramanik-blue)](https://zenithclown.github.io/)
+[![REPO:ADMIN](https://img.shields.io/badge/👔-ZenithClown-2A8542)](https://github.com/ZenithClown)
+[![REPO:ADMIN](https://img.shields.io/badge/👔-dPramanik/in-7287B4)]([https://github.com/ZenithClown](https://www.linkedin.com/in/dpramanik/))
+<br>
+✨ *The Gringotts of Utility Functions for Data Science Projects* ✨
+
+</div>
