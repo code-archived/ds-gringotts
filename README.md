@@ -25,7 +25,7 @@ The repository is organized as follows:
   * **modules/**: This directory includes all the utility libraries, each added as a Git submodule. The modular structure
   allows for easy integration and reuse of the code across different projects.
 
-## Getting Started
+## Project Dependencies
 To ensure that the utility functions work seamlessly, all necessary dependencies are listed in the `requirements.txt` file.
 Please install them using the following command:
 
