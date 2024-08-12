@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.abspath(os.path.join("..", "modules", "prettify")))
 project = 'ds-gringotts'
 copyright = '2024, Debmalya Pramanik'
 author = 'Debmalya Pramanik'
-release = os.path.abspath(os.path.join("..", "VERSION")).read()
+release = open(os.path.abspath(os.path.join("..", "VERSION")), "r").read()
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
