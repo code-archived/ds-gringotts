@@ -42,6 +42,7 @@ the documents to the latest version - I've selected [sphinx](https://www.sphinx-
 
 ```{toctree}
 prettify.md
+sqlparser.md
 ```
 
 ## Contributing Guidelines
