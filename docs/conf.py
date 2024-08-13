@@ -9,7 +9,7 @@ import os
 import sys
 
 # ? insert the project paths to let sphinx recognize/find packages
-sys.path.append(os.path.abspath(os.path.join("..", "modules", "datetime_")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "dt_utils")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "prettify")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "sqlparser")))
 
