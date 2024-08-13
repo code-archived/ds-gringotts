@@ -20,12 +20,12 @@ on enhancing efficiency and productivity for data scientists, machine learning e
 ## Getting Started
 
 The codes are available in [GitHub Gists](https://gist.github.com/ZenithClown) and the same can be accessed from the
-[./modules](../modules/) directory respectively. GitHub Gist typically do not have inherent capability to display the
+[./modules](../modules/) directory respectively. GitHub Gist typically does not have an inherent capability to display the
 comments associated with the commits, howver the same is maintained.
 
 GitHub generates a checksum key for a `gists` thus it is advisable to clone with a desired name using `git`, and adding
-the same to path variable allows Python to look for the packages in the system. Typically the name of directory can be
-set as the name of the file (or first `.py` file, in case of multiple file) or to any desired
+the same to the path variable allows Python to look for the packages in the system. Typically, the directory name can be
+set as the file's name (or the first `.py` file, in case of multiple files) or to any desired user-preferred name.
 
 ```shell
 git clone https://gist.github.com/username/checksum.git name
@@ -34,20 +34,19 @@ $ export PYTHONPATH="${PYTHONPATH}:name" # cd into the directory
 
 ## Motivation & Design
 
-Desgining and maintaining functions and its documentation is a tedious task, and to somewhat automate the same and auto-update
+Designing and maintaining functions and their documentation is a tedious task, and to somewhat automate the same and auto-update
 the documents to the latest version - I've selected [sphinx](https://www.sphinx-doc.org/en/master/) and
 [ReadTheDocs](https://docs.readthedocs.io/en/stable/) to host and document the same.
 
-## Table of Contents
+## Contributing Guidelines
+
+If you find the code useful, please do put references/stars. To contribute, please follow
+[CONTRIBUTING.md](https://github.com/ZenithClown/.github/blob/master/.github/CONTRIBUTING.md) guidelines.
 
 ```{toctree}
+:hidden:
 prettify.md
 sqlparser.md
 ```
-
-## Contributing Guidelines
-
-If you find the code useful, please do put reference/stars. For contributing, please follow
-[CONTRIBUTING.md](https://github.com/ZenithClown/.github/blob/master/.github/CONTRIBUTING.md) guidelines.
 
 </div>
