@@ -37,4 +37,9 @@ pip install -r docs/requirements.txt
 make html
 ```
 
+## Contributing Guidelines
+
+If you find the code useful, please do put reference/stars. For contributing, please follow
+[CONTRIBUTING.md](https://github.com/ZenithClown/.github/blob/master/.github/CONTRIBUTING.md) guidelines.
+
 </div>

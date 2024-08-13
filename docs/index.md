@@ -35,4 +35,9 @@ the documents to the latest version - I've selected [sphinx](https://www.sphinx-
 prettify.md
 ```
 
+## Contributing Guidelines
+
+If you find the code useful, please do put reference/stars. For contributing, please follow
+[CONTRIBUTING.md](https://github.com/ZenithClown/.github/blob/master/.github/CONTRIBUTING.md) guidelines.
+
 </div>
