@@ -45,6 +45,7 @@ If you find the code useful, please do put references/stars. To contribute, plea
 
 ```{toctree}
 :hidden:
+datetime_.md
 prettify.md
 sqlparser.md
 ```
