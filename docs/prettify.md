@@ -1,8 +1,7 @@
 <div align = "center">
 
-# Emphasis Printing (`prettify`) of Statements
+# Emphasize Print Statement
 
-<br>
 ✨ *emphasize texts with bold/colors in CLI/notebook* ✨
 
 </div>
@@ -16,6 +15,8 @@ application which typically uses the `..., verbose : bool = True` argument to pr
 between by translating "human redable" text to "machine translated" format to be interpreted to emphasize the text. The
 [`public gist`](https://gist.github.com/ZenithClown/c6b4c51de4d4dac564ecbe0e178955cb) provides a collection of function
 and proper citations are provided as discovered.
+
+## Module Documentation
 
 ```{eval-rst}
 .. automodule:: prettify
