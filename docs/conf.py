@@ -9,12 +9,15 @@ import os
 import sys
 
 # ? insert the project paths to let sphinx recognize/find packages
-sys.path.insert(0, os.path.abspath(os.path.join("..", "modules", "prettify")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "prettify")))
 
 project = 'ds-gringotts'
 copyright = '2024, Debmalya Pramanik'
 author = 'Debmalya Pramanik'
 release = open(os.path.abspath(os.path.join("..", "VERSION")), "r").read()
+
+# WIP import all modules, house-keeping
+import prettify # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
