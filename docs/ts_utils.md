@@ -6,7 +6,7 @@
 
 ```{eval-rst}
 .. attention::
-  Source Code: `GH/sqlparser <https://gist.github.com/ZenithClown/f99d7e1e3f4b4304dd7d43603cef344d>`_
+  Source Code: `GH/ts_utils <https://gist.github.com/ZenithClown/f99d7e1e3f4b4304dd7d43603cef344d>`_
 ```
 
 </div>
@@ -56,7 +56,16 @@ Time series analysis is a special segment of AI/ML application development where
 </div>
 
 ```{eval-rst}
-.. automodule:: stationarity
+.. automodule:: ts_featuring
+  :members:
+  :undoc-members:
+  :show-inheritance:
+```
+
+## Time Series Models
+
+```{eval-rst}
+.. automodule:: ts_models
   :members:
   :undoc-members:
   :show-inheritance:
