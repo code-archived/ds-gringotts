@@ -6,12 +6,24 @@
 [![REPO:ADMIN](https://img.shields.io/badge/GitHub-ZenithClown-2A8542?logo=github)](https://github.com/ZenithClown)
 [![REPO:ADMIN](https://img.shields.io/badge/GitLab-ZenithClown-2A8542?logo=gitlab)](https://gitlab.com/ZenithClown)
 [![REPO:ADMIN](https://img.shields.io/badge/dPramanik-7287B4?logo=linkedin)]([https://github.com/ZenithClown](https://www.linkedin.com/in/dpramanik/))
-<br>
+
 ✨ *The Gringotts of Utility Functions for Data Science Projects* ✨
+
+```{eval-rst}
+.. attention::
+  All the Gists are Available at: `GH/ZenithClown <https://gist.github.com/ZenithClown>`_
+```
 
 </div>
 
 <div align = "justify">
+
+```{toctree}
+:hidden:
+dt_utils.md
+prettify.md
+sqlparser.md
+```
 
 Welcome to the repository of self-developed Python utility functions aimed at streamlining data science, machine learning
 workflows, and Python development in general. This collection has been refined throughout my professional work, with a focus
@@ -43,11 +55,10 @@ the documents to the latest version - I've selected [sphinx](https://www.sphinx-
 If you find the code useful, please do put references/stars. To contribute, please follow
 [CONTRIBUTING.md](https://github.com/ZenithClown/.github/blob/master/.github/CONTRIBUTING.md) guidelines.
 
-```{toctree}
-:hidden:
-dt_utils.md
-prettify.md
-sqlparser.md
+```{eval-rst}
+.. attention::
+  To contribute, or feature request please raise a PR/Issues at
+  `code-archived/ds-gringotts <https://github.com/code-archived/ds-gringotts>`_
 ```
 
 </div>
