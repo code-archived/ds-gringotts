@@ -4,17 +4,16 @@
 
 ✨ *code snippets for handling `SQL` or `NoSQL` in __`python`__* ✨
 
+```{eval-rst}
+.. attention::
+  Source Code: `GH/sqlparser <hhttps://gist.github.com/ZenithClown/3fc21f94cf9567003b153bcfca738f6d>`_
+```
+
 </div>
 
 <br>
 
 <div align = "justify">
-
-The `gist` repository holds some key utility functions for manipulation of `SQL` or `NoSQL` objects (database, model definations, etc.) to
-be used as a sub-module in a `python` project. The repository follows a [**`monorepo`**](https://monorepo.tools/) architecture, thus
-advised to follow the documentation for easier navigation.
-
-## Module Documentation
 
 ```{eval-rst}
 .. automodule:: sqlparser
