@@ -6,7 +6,7 @@
 
 ```{eval-rst}
 .. attention::
-  Source Code: `GH/sqlparser <hhttps://gist.github.com/ZenithClown/3fc21f94cf9567003b153bcfca738f6d>`_
+  Source Code: `GH/sqlparser <https://gist.github.com/ZenithClown/3fc21f94cf9567003b153bcfca738f6d>`_
 ```
 
 </div>
