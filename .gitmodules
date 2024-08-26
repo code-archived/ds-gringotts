@@ -7,6 +7,3 @@
 [submodule "modules/datetime_"]
 	path = modules/dt_utils
 	url = https://gist.github.com/ZenithClown/d2dd294c5f528459e16b139c04c0b182.git
-[submodule "modules/ts_utils"]
-	path = modules/ts_utils
-	url = https://gist.github.com/ZenithClown/f99d7e1e3f4b4304dd7d43603cef344d.git

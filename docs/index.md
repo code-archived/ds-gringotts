@@ -23,7 +23,6 @@
 dt_utils.md
 prettify.md
 sqlparser.md
-ts_utils.md
 ```
 
 Welcome to the repository of self-developed Python utility functions aimed at streamlining data science, machine learning
