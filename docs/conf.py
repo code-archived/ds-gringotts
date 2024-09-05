@@ -12,6 +12,7 @@ import sys
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "dt_utils")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "prettify")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "sqlparser")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "wrappers")))
 
 project = 'ds-gringotts'
 copyright = '2024, Debmalya Pramanik'
@@ -22,6 +23,7 @@ release = open(os.path.abspath(os.path.join("..", "VERSION")), "r").read()
 import datetime_ # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import prettify # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import sqlparser # noqa: F401, F403 # pyright: ignore[reportMissingImports]
+import timer_decorator # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
