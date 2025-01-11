@@ -14,7 +14,7 @@ sys.path.append(os.path.abspath(os.path.join("..", "modules", "prettify")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "sqlparser")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "wrappers")))
 
-project = 'ds-gringotts'
+project = 'DS Gringotts'
 copyright = '2024, Debmalya Pramanik'
 author = 'Debmalya Pramanik'
 release = open(os.path.abspath(os.path.join("..", "VERSION")), "r").read()
@@ -22,6 +22,7 @@ release = open(os.path.abspath(os.path.join("..", "VERSION")), "r").read()
 # WIP import all modules, house-keeping
 import datetime_ # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import prettify # noqa: F401, F403 # pyright: ignore[reportMissingImports]
+import pwrapper # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import sqlparser # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import timer_decorator # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 
