@@ -22,4 +22,11 @@
   :show-inheritance:
 ```
 
+```{eval-rst}
+.. automodule:: pwrapper
+  :members:
+  :undoc-members:
+  :show-inheritance:
+```
+
 </div>
