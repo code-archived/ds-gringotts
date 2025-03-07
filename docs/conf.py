@@ -14,7 +14,7 @@ sys.path.append(os.path.abspath(os.path.join("..", "modules", "prettify")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "sqlparser")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "wrappers")))
 
-project = 'ds-gringotts'
+project = 'DS Gringotts'
 copyright = '2024, Debmalya Pramanik'
 author = 'Debmalya Pramanik'
 release = open(os.path.abspath(os.path.join("..", "VERSION")), "r").read()
