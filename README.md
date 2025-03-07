@@ -19,15 +19,28 @@ Welcome to the repository of self-developed Python utility functions aimed at st
 workflows, and Python development in general. This collection has been refined throughout my professional work, with a focus
 on enhancing efficiency and productivity for data scientists, machine learning engineers, and Python developers.
 
-## Repository Structure
+## Getting Started
 
-The repository is organized as follows:
+Documentation is not for the *"faint-hearted"* and writing efficient code is not an expertise of most of the coders. Well,
+to avoid a simple problem like forgetting what these piece of s*** does, I tend to write some basic notes.
+
+> The Code is the Documentation!
+
+The documentation provides a one-stop solution to manage code documentation and host the same at
+[Read the Docs](http://readthedocs.org/) for end users.
+
+### Repository Structure
+
+The [GitHub Gists](https://gist.github.com/) is a simple place of sharing code snippets with all the features of a Git
+repository but better in handling simple code snippets. In addition, Gists are a great way to keep your GitHub account
+clean by not creating too many repositories with a single file. The repository is organized as follows:
+
   * **docs/**: This directory contains the Sphinx-generated documentation for all the utility functions included in this
   repository. This documentation is continuously updated to reflect the latest changes and additions.
   * **modules/**: This directory includes all the utility libraries, each added as a Git submodule. The modular structure
   allows for easy integration and reuse of the code across different projects.
 
-## Project Dependencies
+### Project Dependencies
 To ensure that the utility functions work seamlessly, all necessary dependencies are listed in the `requirements.txt` file.
 Please install them using the following command:
 
