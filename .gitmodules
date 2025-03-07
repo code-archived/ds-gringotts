@@ -2,10 +2,10 @@
 	path = modules/prettify
 	url = https://gist.github.com/ZenithClown/c6b4c51de4d4dac564ecbe0e178955cb.git
 [submodule "modules/sqlparser"]
-	path = modules/sqlparser
+	path = modules/utils/sqlutils
 	url = https://gist.github.com/ZenithClown/3fc21f94cf9567003b153bcfca738f6d.git
 [submodule "modules/datetime_"]
-	path = modules/dt_utils
+	path = modules/utils/dtutils/
 	url = https://gist.github.com/ZenithClown/d2dd294c5f528459e16b139c04c0b182.git
 [submodule "modules/wrappers"]
 	path = modules/wrappers
