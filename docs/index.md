@@ -22,10 +22,24 @@
 <div align = "justify">
 
 ```{toctree}
+:maxdepth: 2
 :hidden:
+:caption: Utility Modules
+
+dtutils.md
+sqlutils.md
+
 dt_utils.md
 prettify.md
 sqlparser.md
+wrappers.md
+```
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+:caption: Utility Modules
+
 wrappers.md
 ```
 
