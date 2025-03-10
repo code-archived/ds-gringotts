@@ -36,7 +36,7 @@
 :caption: Object Customization
 
 ./modules/customize/wrappers.md
-./modules/customize/prettify.md
+./modules/customize/prettyprint.md
 ```
 
 Welcome to the repository of self-developed Python utility functions aimed at streamlining data science, machine learning
