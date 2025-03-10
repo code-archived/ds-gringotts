@@ -22,11 +22,21 @@
 <div align = "justify">
 
 ```{toctree}
+:maxdepth: 2
 :hidden:
-dt_utils.md
-prettify.md
-sqlparser.md
-wrappers.md
+:caption: Utility Modules
+
+./modules/utils/dtutils.md
+./modules/utils/sqlutils.md
+```
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+:caption: Object Customization
+
+./modules/customize/wrappers.md
+./modules/customize/prettyprint.md
 ```
 
 Welcome to the repository of self-developed Python utility functions aimed at streamlining data science, machine learning
