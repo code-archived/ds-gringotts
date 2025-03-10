@@ -26,21 +26,17 @@
 :hidden:
 :caption: Utility Modules
 
-dtutils.md
-sqlutils.md
-
-dt_utils.md
-prettify.md
-sqlparser.md
-wrappers.md
+./modules/utils/dtutils.md
+./modules/utils/sqlutils.md
 ```
 
 ```{toctree}
 :maxdepth: 2
 :hidden:
-:caption: Utility Modules
+:caption: Object Customization
 
-wrappers.md
+./modules/customize/wrappers.md
+./modules/customize/prettify.md
 ```
 
 Welcome to the repository of self-developed Python utility functions aimed at streamlining data science, machine learning
