@@ -9,14 +9,14 @@ import os
 import sys
 
 # ? insert the project paths to let sphinx recognize/find packages
-sys.path.append(os.path.abspath(os.path.join("..", "modules", "dt_utils")))
-sys.path.append(os.path.abspath(os.path.join("..", "modules", "prettify")))
-sys.path.append(os.path.abspath(os.path.join("..", "modules", "sqlparser")))
-sys.path.append(os.path.abspath(os.path.join("..", "modules", "wrappers")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "utils", "dtutils")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "utils", "sqlutils")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "wrappers")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "prettyprint")))
 
-project = 'DS Gringotts'
-copyright = '2024, Debmalya Pramanik'
-author = 'Debmalya Pramanik'
+project = "DS Gringotts"
+copyright = "2024, Debmalya Pramanik"
+author = "Debmalya Pramanik"
 release = open(os.path.abspath(os.path.join("..", "VERSION")), "r").read()
 
 # WIP import all modules, house-keeping
