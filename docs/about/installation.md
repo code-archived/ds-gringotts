@@ -1,4 +1,8 @@
+<div align = "center">
+
 # Installation & Setup
+
+</div>
 
 <div align = "justify">
 
