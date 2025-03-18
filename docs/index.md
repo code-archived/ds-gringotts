@@ -24,6 +24,14 @@
 ```{toctree}
 :maxdepth: 2
 :hidden:
+:caption: Getting Started
+
+./about/installation.md
+```
+
+```{toctree}
+:maxdepth: 2
+:hidden:
 :caption: Utility Modules
 
 ./modules/utils/dtutils.md
@@ -42,21 +50,6 @@
 Welcome to the repository of self-developed Python utility functions aimed at streamlining data science, machine learning
 workflows, and Python development in general. This collection has been refined throughout my professional work, with a focus
 on enhancing efficiency and productivity for data scientists, machine learning engineers, and Python developers.
-
-## Getting Started
-
-The codes are available in [GitHub Gists](https://gist.github.com/ZenithClown) and the same can be accessed from the
-[./modules](../modules/) directory respectively. GitHub Gist typically does not have an inherent capability to display the
-comments associated with the commits, howver the same is maintained.
-
-GitHub generates a checksum key for a `gists` thus it is advisable to clone with a desired name using `git`, and adding
-the same to the path variable allows Python to look for the packages in the system. Typically, the directory name can be
-set as the file's name (or the first `.py` file, in case of multiple files) or to any desired user-preferred name.
-
-```shell
-git clone https://gist.github.com/username/checksum.git name
-$ export PYTHONPATH="${PYTHONPATH}:name" # cd into the directory
-```
 
 ## Motivation & Design
 
