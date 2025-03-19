@@ -26,6 +26,7 @@
 :hidden:
 :caption: Getting Started
 
+./about/objective.md
 ./about/installation.md
 ```
 
