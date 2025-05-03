@@ -44,7 +44,7 @@
 :hidden:
 :caption: Object Customization
 
-./modules/customize/wrappers.md
+./modules/customize/pydry.md
 ./modules/customize/prettyprint.md
 ```
 
