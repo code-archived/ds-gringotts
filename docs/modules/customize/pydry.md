@@ -33,4 +33,26 @@ method that extends its behavior without permanently modifying it.
   :show-inheritance:
 ```
 
+## Context Managers
+
+An advanced python tool - a context manager defines the runtime context (or behavior) for executing a code within a
+**`with`** statement. Typical example of a context manager is:
+
+```python
+with open(filename, "r") as f:
+  ... # do something
+```
+
+In the above statement, we use the context manager `open` to interact with a file and auto close the file without the
+need of explicit `.close()` method on the open file [(more information)](https://stackoverflow.com/q/3012488/6623589).
+
+### Time Context Manegers
+
+```{eval-rst}
+.. automodule:: context_managers
+  :members:
+  :undoc-members:
+  :show-inheritance:
+```
+
 </div>
