@@ -5,7 +5,7 @@
 	path = modules/utils/dtutils
 	url = https://gist.github.com/ZenithClown/d2dd294c5f528459e16b139c04c0b182.git
 [submodule "modules/customize/wrappers"]
-	path = modules/customize/wrappers
+	path = modules/customize/pydry
 	url = https://gist.github.com/ZenithClown/df4391a8b0313eb808e9a0f4ef5c78ad.git
 [submodule "modules/customize/prettyprint"]
 	path = modules/customize/prettyprint

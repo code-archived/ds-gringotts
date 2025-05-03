@@ -11,7 +11,7 @@ import sys
 # ? insert the project paths to let sphinx recognize/find packages
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "utils", "dtutils")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "utils", "sqlutils")))
-sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "wrappers")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "pydry")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "prettyprint")))
 
 project = "DS Gringotts"
@@ -25,6 +25,7 @@ import prettify # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import pwrapper # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import sqlparser # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 import timer_decorator # noqa: F401, F403 # pyright: ignore[reportMissingImports]
+import context_manager # noqa: F401, F403 # pyright: ignore[reportMissingImports]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
