@@ -11,7 +11,7 @@ import sys
 # ? insert the project paths to let sphinx recognize/find packages
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "utils", "dtutils")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "utils", "sqlutils")))
-sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "wrappers")))
+sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "pydry")))
 sys.path.append(os.path.abspath(os.path.join("..", "modules", "customize", "prettyprint")))
 
 project = "DS Gringotts"
