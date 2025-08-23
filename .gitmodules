@@ -10,3 +10,6 @@
 [submodule "modules/customize/prettyprint"]
 	path = modules/customize/prettyprint
 	url = https://gist.github.com/ZenithClown/c6b4c51de4d4dac564ecbe0e178955cb.git
+[submodule "modules/utils/webscrappers"]
+	path = modules/utils/webscrappers
+	url = https://gist.github.com/ZenithClown/809642277fba2d8d2309e55ab307615f.git
