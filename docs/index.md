@@ -37,6 +37,7 @@
 
 ./modules/utils/dtutils.md
 ./modules/utils/sqlutils.md
+./modules/utils/webscrappers.md
 ```
 
 ```{toctree}
