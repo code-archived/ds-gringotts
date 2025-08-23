@@ -4,6 +4,11 @@
 
 *a set of functions that uses the `BeautifulSoup` module to scrap data from various websites*
 
+```{eval-rst}
+.. attention::
+  Source Code: `GH/sqlutils <https://gist.github.com/ZenithClown/809642277fba2d8d2309e55ab307615f>`_
+```
+
 </div>
 
 <br>
