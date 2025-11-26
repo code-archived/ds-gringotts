@@ -11,9 +11,9 @@ repository but better in handling simple code snippets. In addition, Gists are a
 clean by not creating too many repositories with a single file. The repository is organized as follows:
 
   * **docs/**: This directory contains the Sphinx-generated documentation for all the utility functions included in this
-  repository. This documentation is continuously updated to reflect the latest changes and additions.
+    repository. This documentation is continuously updated to reflect the latest changes and additions.
   * **modules/**: This directory includes all the utility libraries, each added as a Git submodule. The modular structure
-  allows for easy integration and reuse of the code across different projects.
+    allows for easy integration and reuse of the code across different projects.
 
 ### Project Dependencies
 To ensure that the utility functions work seamlessly, all necessary dependencies are listed in the `requirements-doc.txt`
